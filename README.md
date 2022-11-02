@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @francuz32
 - 👀 I’m interested in coding, sports, languages, and education. I love learning and teaching!
-- 🌱 I’m currently exploring what options there are in this world but I do know a little bit of html, css, javascript, java, and sql. 
-- 📫 You can always send me an email to francisco.uz58@hotmail.com in case you want to ask me anything =) 
+- 🌱 Full-Stack dev, knowledge in html, css, javascript, java, and sql. 
+- Sadly, I haven't had any formal work experience yet. I'm constantly practicing and learning new things to be able to reach that goal. I understand that having a formal job is essential to learn a lot of necessary skills in coding so that's my goal now.
+- 📫 You can always send me an email to franc.uribez@gmail.com in case you want to ask me anything =) 
 
 <!---
 francuz32/francuz32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
